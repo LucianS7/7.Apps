@@ -1,0 +1,34 @@
+body {
+  background-image: url("./table.png");
+  background-repeat: no-repeat;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem;
+  font-weight: bold;
+  max-width: 600px;
+  text-align: center;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#start-btn, #newcard-btn {
+  background: goldenrod;
+  border: none;
+  border-radius: 2px;
+  color: #016f32;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: auto;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 150px;
+}
