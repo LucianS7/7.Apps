@@ -13,11 +13,11 @@ h1 {
   color: goldenrod;
 }
 
-#message-el {
+#message--el {
     font-style: italic;
 }
 
-#start-btn, #newcard-btn {
+#start--btn, #newcard--btn {
   background: goldenrod;
   border: none;
   border-radius: 2px;

@@ -38,11 +38,11 @@ p {
   font-size: 1.4rem;
 }
 
-#increment-btn {
+#increment--btn {
   background: rgb(84, 192, 2);
 }
 
-#save-btn {
+#save--btn {
   background: darkgreen;
 }
 
